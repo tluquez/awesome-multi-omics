@@ -168,6 +168,7 @@ For brevity, below lists only the first author of multi-omics methods.
 ## Multi-omics data management
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
+- 2020 - [MultiPower and MultiML](https://github.com/ConesaLab/MultiPower) - Tarazona - Quality metrics harmonization and power calculation for multi-omics - [paper](https://doi.org/10.1038/s41467-020-16937-8)
 
 ## Meetings and workshops
 
